@@ -305,10 +305,10 @@
                         </li>
                     </ul>
                 </div>
-                <div class="modulo azul-escuro">
-                    <h3>6. Funções</h3>
+                <div class="modulo vermelho-escuro">
+                    <h3>7. Funções</h3>
                     <ul>
-                    <li>
+                        <li>
                             <a href="exercicio.php?dir=funcoes&file=escopo">
                                 Função & Escopo
                             </a>
@@ -370,7 +370,7 @@
                         </li>
                     </ul>
                 </div>
-                <div class="modulo vermelho-escuro">
+                <div class="modulo azul-escuro">
                     <h3>8. Paradigma O.O.</h3>
                     <ul>
                         <li>
@@ -378,9 +378,18 @@
                                 Primeira CLasse
                             </a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=classesObjetos&file=classeData">
+                                Classe Data
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=classesObjetos&file=construtorDestrutor">
+                                Construtor e Destrutor
+                            </a>
+                        </li>
                     </ul>
                 </div>
-
             </nav>
         </div>
     </main>
