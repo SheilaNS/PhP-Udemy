@@ -388,6 +388,16 @@
                                 Construtor e Destrutor
                             </a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=classesObjetos&file=heranca">
+                                Herança
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=classesObjetos&file=visibilidade">
+                                Visibilidade
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </nav>
