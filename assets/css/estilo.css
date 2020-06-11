@@ -141,6 +141,9 @@ body {
 .modulo.roxo-escuro {border: 2px solid darkslateblue;}
 .modulo.roxo-escuro > h3 {background-color: darkslateblue;}
 
+.modulo.laranja-escuro {border: 2px solid rgb(214, 112, 16);}
+.modulo.laranja-escuro > h3 {background-color: rgb(214, 112, 16);}
+
 p.divisao {
     margin-bottom: 0px;
     font-weight: bold; 
