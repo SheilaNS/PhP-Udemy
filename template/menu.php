@@ -515,4 +515,19 @@
             </li>
         </ul>
     </div>
+    <div class="modulo vermelho">
+        <h3>12. Sessão</h3>
+        <ul>
+            <li>
+                <a href="exercicio.php?dir=sessao&file=basicoSessao">
+                    Sessão
+                </a>
+            </li>
+            <li>
+                <a href="exercicio.php?dir=sessao&file=gerenciandoSessao">
+                    Gerenciando Sessão
+                </a>
+            </li>
+        </ul>
+    </div>
 </nav>
