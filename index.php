@@ -398,6 +398,56 @@
                                 Visibilidade
                             </a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=classesObjetos&file=static">
+                                Membros Estáticos
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=classesObjetos&file=interface">
+                                Interface
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=classesObjetos&file=classeAbstrata">
+                                Classe Abstrata
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=classesObjetos&file=desafioErros">
+                                Desafio 7 Erros
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=classesObjetos&file=respostaErros">
+                                Resposta Desafio 7 Erros
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=classesObjetos&file=final">
+                                Modificador Final
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=classesObjetos&file=traits">
+                                Traits 1
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=classesObjetos&file=traits2">
+                                Traits 2
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=classesObjetos&file=metodosMagicos">
+                                Métodos Mágicos
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=classesObjetos&file=polimorfismo">
+                                Polimorfismo
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </nav>
