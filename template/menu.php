@@ -530,4 +530,34 @@
             </li>
         </ul>
     </div>
+    <div class="modulo azul">
+        <h3>13. API</h3>
+        <ul>
+            <li>
+                <a href="exercicio.php?dir=api&file=data01">
+                    Datas 01
+                </a>
+            </li>
+            <li>
+                <a href="exercicio.php?dir=api&file=data02">
+                    Datas 02
+                </a>
+            </li>
+            <li>
+                <a href="exercicio.php?dir=api&file=escreverArquivo">
+                    Escrever Arquivo
+                </a>
+            </li>
+        </ul>
+    </div>
+    <div class="modulo roxo">
+        <h3>13. Formulários</h3>
+        <ul>
+            <li>
+                <a href="exercicio.php?dir=formulario&file=formulario">
+                    Formulário
+                </a>
+            </li>
+        </ul>
+    </div>
 </nav>
