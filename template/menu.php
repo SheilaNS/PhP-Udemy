@@ -603,6 +603,26 @@
                     Alterar Registro
                 </a>
             </li>
+            <li>
+                <a href="exercicio.php?dir=bd&file=inserirPDO">
+                    Inserir PDO
+                </a>
+            </li>
+            <li>
+                <a href="exercicio.php?dir=bd&file=consultarPDO">
+                    Consultar PDO
+                </a>
+            </li>
+            <li>
+                <a href="exercicio.php?dir=bd&file=excluirPDO">
+                    Excluir PDO
+                </a>
+            </li>
+            <li>
+                <a href="exercicio.php?dir=bd&file=alterarPDO">
+                    Alterar PDO
+                </a>
+            </li>
         </ul>
     </div>
 </nav>
