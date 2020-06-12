@@ -560,4 +560,49 @@
             </li>
         </ul>
     </div>
+    <div class="modulo laranja">
+        <h3>14. Banco de Dados</h3>
+        <ul>
+            <li>
+                <a href="exercicio.php?dir=bd&file=criarBanco">
+                    Criar Banco
+                </a>
+            </li>
+            <li>
+                <a href="exercicio.php?dir=bd&file=criarTabela">
+                    Criar Tabela
+                </a>
+            </li>
+            <li>
+                <a href="exercicio.php?dir=bd&file=inserir1">
+                    Inserir Registro 1
+                </a>
+            </li>
+            <li>
+                <a href="exercicio.php?dir=bd&file=consultar">
+                    Consultar Registros
+                </a>
+            </li>
+            <li>
+                <a href="exercicio.php?dir=bd&file=excluir1">
+                    Excluir Registros 1
+                </a>
+            </li>
+            <li>
+                <a href="exercicio.php?dir=bd&file=excluir2">
+                    Excluir Registros 2
+                </a>
+            </li>
+            <li>
+                <a href="exercicio.php?dir=bd&file=inserir2">
+                    Inserir Registros 2
+                </a>
+            </li>
+            <li>
+                <a href="exercicio.php?dir=bd&file=alterar">
+                    Alterar Registro
+                </a>
+            </li>
+        </ul>
+    </div>
 </nav>
